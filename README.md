@@ -1,5 +1,4 @@
 # Final Project for COS 424: Understanding NBA Team and Player Performance
-# Princeton
 
 ## Overview 
 
