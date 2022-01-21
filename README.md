@@ -8,8 +8,6 @@ In this work, we use classification models to predict the outcome of 24,196 game
 
 ## Approach and Results
 
-The overall approach taken in this project as well as key results are detailed [here](https://github.com/Hari-Raval/nba-player-performance/blob/main/report_results.pdf)
-
-For a quicker snapshot of the project results, one can view the poster shown [here](https://github.com/Hari-Raval/nba-player-performance/blob/main/poster.png)
+The overall approach taken in this project as well as key results are detailed [here](https://github.com/Hari-Raval/nba-player-performance/blob/main/report_results.pdf). For a quicker snapshot of the project results, one can view the poster shown [here](https://github.com/Hari-Raval/nba-player-performance/blob/main/poster.png)
 
 
