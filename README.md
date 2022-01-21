@@ -1,5 +1,7 @@
 # Final Project for COS 424: Understanding NBA Team and Player Performance
 
+##### Team Members: Hari Raval, Hannah Huh, Tommy Nguyen, Isabel Medlock
+
 ## Overview 
 
 The NBA (National Basketball Association) is an organization which negotiates the varying interests of players, coaches, owners, and fans. One area of common interest is understanding team and player performance. Teams can obtain insights into their level of play and make decisions on personal changes. Fans can use these insights to engage in the betting market. Analysis of NBA game data from 2004 to 2020 uncovers a complex team network and latent player positions. 
